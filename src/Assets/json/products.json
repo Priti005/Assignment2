@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Food",
+        "image": "1.jpg",
+        "price": 5000,
+        "rating": 4
+    },
+    {
+        "name": "Medic",
+        "image": "2.jpg",
+        "price": 3000,
+        "rating": 3
+    },
+    {
+        "name": "Cloths",
+        "image": "3.jpg",
+        "price": 40000,
+        "rating": 5
+    },
+    {
+        "name": "Toys",
+        "image": "4.jpg",
+        "price": 7000,
+        "rating": 4
+    }
+]
